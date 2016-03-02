@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - InputReciever
+  - UIPlayerCharacter0
+  - UIPlayerCharacter1
+  - UIPlayerCharacter2
+  - UIPlayerCharacter3
+  - UIPanelPlayerInfo
+  - UIPanelActionPlayerName
+  - UIPanelAction0
+  - UIPanelAction1
+  - UIPanelAction2
+  - UIPanelAction3
+  - UIPanelListName
+  - UIPanelListItem
+  - UIPanelAction
+  - UIPanelList
+  - UIPanelListItem0
+  - UIPanelListItem1
+  - UIPanelListItem2
+  - UIPanelListItem3
+  - UIPanelListItem4
+  - UIPanelListItem5
+  - UIPanelListItem6
+  - UIPanelListItem7
+  - UIPanelListItem8
+  - UIPanelListItem9
+  - UIPanelListItem10
+  - UIPanelListItem11
+  - UIPanelActionAttack
+  - UIPanelActionAbilities
+  - UIPanelActionItems
+  - UIPanelActionFlee
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

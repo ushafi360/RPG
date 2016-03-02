@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- TODO Attributes need to be put here. ID will be used per location i.e. each location will have 
+a specific ID. And items will be choosen based on that. PLEASE THINK OF SOME BETTER WAY FOR 
+LOCATIONS -->
+
+<itemDatabase>
+  <!-- Weapons are defined here-->
+  <!-- SWORDS are defined here-->
+  <Item>
+    <itemName>Chipped Sword</itemName>
+    <itemID>01</itemID>
+    <itemType>WEAPON</itemType>
+    <itemRarity>WHITE</itemRarity>
+    <itemDesc>A chipped sword abondaned by some knight.</itemDesc>
+    <weaponType>SWORD</weaponType>
+  </Item>
+  
+  <!-- BOWS are defined here-->
+  <Item>
+    <itemName>Wooden Bow</itemName>
+    <itemID>02</itemID>
+    <itemType>WEAPON</itemType>
+    <itemRarity>WHITE</itemRarity>
+    <itemDesc>A basic bow used by trainers to train archers.</itemDesc>
+    <weaponType>BOW</weaponType>
+  </Item>
+  
+  <!-- STAFFS are defined here-->
+  <Item>
+    <itemName>Wooden Staff</itemName>
+    <itemID>03</itemID>
+    <itemType>WEAPON</itemType>
+    <itemRarity>WHITE</itemRarity>
+    <itemDesc>A wooden staff used by students of MPS.</itemDesc>
+    <weaponType>STAFF</weaponType>
+  </Item>
+  
+  <!-- DAGGERS are defined here-->
+  <Item>
+    <itemName>Iron Dagger</itemName>
+    <itemID>04</itemID>
+    <itemType>WEAPON</itemType>
+    <itemRarity>WHITE</itemRarity>
+    <itemDesc>An iron dagger used by buthers.</itemDesc>
+    <weaponType>DAGGER</weaponType>
+  </Item>
+  
+  <!-- SHIELDS are defined here-->
+  <Item>
+    <itemName>Wooden Shield</itemName>
+    <itemID>05</itemID>
+    <itemType>WEAPON</itemType>
+    <itemRarity>WHITE</itemRarity>
+    <itemDesc>A shield for defense.</itemDesc>
+    <weaponType>SHIELD</weaponType>
+  </Item>
+  
+  <!-- ARROWS are defined here-->
+  <Item>
+    <itemName>Wooden Arrow</itemName>
+    <itemID>04</itemID>
+    <itemType>WEAPON</itemType>
+    <itemRarity>WHITE</itemRarity>
+    <itemDesc>A wooden arrow used by archers in training.</itemDesc>
+    <weaponType>ARROW</weaponType>
+  </Item>
+  
+  <!-- Equipment is defined here-->
+  <Item>
+    <itemName>Cap</itemName>
+    <itemID>01</itemID>
+    <itemType>EQUIPMENT</itemType>
+    <itemRarity>WHITE</itemRarity>
+    <itemDesc>A simple cap.</itemDesc>
+    <equipmentType>HEAD_GEAR</equipmentType>
+  </Item>
+  
+  <Item>
+    <itemName>Shirt</itemName>
+    <itemID>02</itemID>
+    <itemType>EQUIPMENT</itemType>
+    <itemRarity>WHITE</itemRarity>
+    <itemDesc>A simple shirt.</itemDesc>
+    <equipmentType>CHEST_WEAR</equipmentType>
+  </Item>
+  
+  <Item>
+    <itemName>Leather Shoulderguard</itemName>
+    <itemID>03</itemID>
+    <itemType>EQUIPMENT</itemType>
+    <itemRarity>WHITE</itemRarity>
+    <itemDesc>A simple shoulder guard.</itemDesc>
+    <equipmentType>SHOULDER_GUARD</equipmentType>
+  </Item>
+
+  <Item>
+    <itemName>Pants</itemName>
+    <itemID>04</itemID>
+    <itemType>EQUIPMENT</itemType>
+    <itemRarity>WHITE</itemRarity>
+    <itemDesc>A simple pair of pants.</itemDesc>
+    <equipmentType>LEG_WEAR</equipmentType>
+  </Item>
+
+  <Item>
+    <itemName>Shoes</itemName>
+    <itemID>05</itemID>
+    <itemType>EQUIPMENT</itemType>
+    <itemRarity>WHITE</itemRarity>
+    <itemDesc>Light Shoes.</itemDesc>
+    <equipmentType>SHOES</equipmentType>
+  </Item>
+
+  <Item>
+    <itemName>Necklace</itemName>
+    <itemID>06</itemID>
+    <itemType>EQUIPMENT</itemType>
+    <itemRarity>WHITE</itemRarity>
+    <itemDesc>Common Necklace.</itemDesc>
+    <equipmentType>NECK_WEAR</equipmentType>
+  </Item>
+
+  <Item>
+    <itemName>Ring</itemName>
+    <itemID>07</itemID>
+    <itemType>EQUIPMENT</itemType>
+    <itemRarity>WHITE</itemRarity>
+    <itemDesc>A simple shirt.</itemDesc>
+    <equipmentType>RING</equipmentType>
+  </Item>
+  
+  <!-- Potions are defined here-->
+  <Item>
+    <itemName>Health Potion</itemName>
+    <itemID>01</itemID>
+    <itemType>POTION</itemType>
+    <itemRarity>WHITE</itemRarity>
+    <itemDesc>A simple potion, heals 100 points.</itemDesc>
+    <potionType>HEALTH</potionType>
+    <potionPoints>100</potionPoints>
+  </Item>
+  
+  <Item>
+    <itemName>Mana Potion</itemName>
+    <itemID>02</itemID>
+    <itemType>POTION</itemType>
+    <itemRarity>WHITE</itemRarity>
+    <itemDesc>A simple potion, gives 100 mana.</itemDesc>
+    <potionType>MANA</potionType>
+    <potionPoints>100</potionPoints>
+  </Item>
+  
+</itemDatabase>
