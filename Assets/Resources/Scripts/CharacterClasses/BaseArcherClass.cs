@@ -19,5 +19,7 @@ public class BaseArcherClass : BaseCharacterClass {
         Speed = 20;
         Endurance = 13;
         Luck = 10;
+        PrimaryWeaponType = BaseWeapon.WeaponTypes.BOW;
+        SecondaryWeaponType = BaseWeapon.WeaponTypes.ARROW;
     }
 }
